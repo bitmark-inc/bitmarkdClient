@@ -1,6 +1,6 @@
 module github.com/bitmark-inc/bitmarkdClient
 
-go 1.23
+go 1.21
 
 require (
 	github.com/bitmark-inc/bitmarkd v0.14.0-beta.1
